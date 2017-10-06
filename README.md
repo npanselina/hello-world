@@ -1,2 +1,4 @@
 # hello-world
-my first project
+
+Hi Humans!
+I am learning how to use git
